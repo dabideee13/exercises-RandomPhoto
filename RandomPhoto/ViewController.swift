@@ -4,7 +4,7 @@
 //
 //  Created by Dave Emmanuel Q. Magno on 10/1/21.
 //
-//  Learned from iOS Academy
+//  Copied from iOS Academy (modified a little bit)
 
 import UIKit
 
